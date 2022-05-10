@@ -76,7 +76,7 @@ header {
 }
 
 #titulo {
-    color: white;
+    color: #7a3e64 ;
     padding-top: 5.5%;
     font-size: 70px ;
     line-height: 1;
@@ -97,8 +97,8 @@ header {
 
 
 #acao {
-    color: rgb(247, 247, 247);
-    border: 3px rgb(224, 224, 224) solid;
+    color: #7a3e64 ;
+    border: 3px #7a3e64  solid;
     padding: 10px 20px 10px 20px;
     border-radius: 8px;
     font-size: 18px;
